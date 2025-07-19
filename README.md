@@ -12,3 +12,4 @@ Este script es el que ejecuta realmente el programa, para su ejecución solo nec
 # instalador.sh
 Este script vale para instalar lo necesario en linux, para ejecutarlo simplemente:
 	bash instalador.sh
+ 089456678445
